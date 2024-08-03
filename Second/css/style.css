@@ -29,4 +29,7 @@
   font-weight: 400;
   font-style: normal;
 }
-  
+
+.color {
+   background-color: rgba(90, 153, 226, 0.3) !important;
+}
