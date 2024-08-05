@@ -1,0 +1,39 @@
+ .s-back{
+    position: absolute;
+    z-index: -1;
+ }
+
+ .dp-ov{
+    margin-left: -55px !important;
+    margin-top: 9px !important;
+ }
+
+ .dp-co {
+    background-color: rgba(90, 153, 226, 0.3) !important;
+ }
+
+ .dp-li:hover {
+    background-color: rgba(53, 76, 95, 0.3) !important;
+ }
+
+ .sacramento-regular {
+    font-family: "Sacramento", cursive;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 4.5rem;
+  }
+
+.hedvig-letters-serif {
+  font-family: "Hedvig Letters Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.color {
+   background-color: rgba(90, 153, 226, 0.3) !important;
+}
+
+.txt-color {
+   color: rgb(90, 153, 226) !important;
+}
