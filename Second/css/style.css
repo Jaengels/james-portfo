@@ -33,3 +33,7 @@
 .color {
    background-color: rgba(90, 153, 226, 0.3) !important;
 }
+
+.txt-color {
+   color: rgb(90, 153, 226) !important;
+}
